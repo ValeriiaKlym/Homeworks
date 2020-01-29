@@ -1,0 +1,42 @@
+
+
+#month {
+    background-color: rgb(55, 92, 87);
+    width: 250px;
+    height: 250px;
+    margin-left: 40px;
+    border: rgb(0, 20, 18);
+
+    box-sizing: border-box; 
+    
+}
+#weekdays {
+    margin-left: 27px;
+    color: greenyellow ;
+}
+#days {
+    margin-left: 27px;
+}
+#work {
+    color: white;
+}
+#hook{
+    color: white;
+}
+#gook{
+    color:white;
+}
+#fook{
+    color:white;
+}
+#look{
+    color:white;
+}
+#vook {
+    color: rgb(1, 255, 192);
+}
+.active {
+    color: rgb(197, 238, 15); 
+    padding: 1px;
+    background-color: gray;
+}
