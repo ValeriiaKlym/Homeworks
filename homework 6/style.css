@@ -78,6 +78,7 @@
     float: right;
     padding-right: 140px;
     width: 700px;
+    
 
 }
 
@@ -96,9 +97,11 @@
 .info_for{
    font-weight: 800;
    text-decoration: underline;
+   margin-bottom: 40px;
 }
 
 .sale{
+    margin-top: 30px;
     padding: 0 18px;
     position: relative;
     font-weight: 800;
@@ -136,5 +139,12 @@
     font-weight: bold;
     margin-bottom: 4px;
 
+}
+.preposition{
+    margin-bottom: 60px;
+}
+
+.fabric{
+    margin-top: 60px;
 }
 
