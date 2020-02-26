@@ -1,0 +1,14 @@
+.information{
+    border-collapse: collapse;
+}
+.top{
+    border-top: 0;
+}
+.bottom{
+    border-bottom: 0;
+}
+.top1{
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
