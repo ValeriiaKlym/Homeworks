@@ -1,0 +1,9 @@
+body{
+    background-color: #3e3b4a;
+}
+
+.header-logo , .header-logo_bottom , .header-logo_search{
+    color: #76737f;
+    display: flex;
+    justify-content: space-between;
+}
